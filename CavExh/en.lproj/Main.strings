@@ -1,0 +1,75 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2HU-xh-6NS"; */
+"2HU-xh-6NS.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Lista de Autores"; ObjectID = "2lO-jE-ss0"; */
+"2lO-jE-ss0.text" = "Lista de Autores";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "7lz-0U-Tbj"; */
+"7lz-0U-Tbj.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "História"; ObjectID = "8Pq-87-oAf"; */
+"8Pq-87-oAf.text" = "História";
+
+/* Class = "UINavigationItem"; title = "Lista Autores"; ObjectID = "8k2-Rn-fwG"; */
+"8k2-Rn-fwG.title" = "Lista Autores";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CNY-7m-70K"; */
+"CNY-7m-70K.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "CXB-Ln-RIU"; */
+"CXB-Ln-RIU.text" = "Title";
+
+/* Class = "UITextView"; text = "Select the image to which this part belongs to:"; ObjectID = "F5X-HS-2JA"; */
+"F5X-HS-2JA.text" = "Select the image to which this part belongs to:";
+
+/* Class = "UINavigationItem"; title = "Favoritos"; ObjectID = "FOV-bX-UUk"; */
+"FOV-bX-UUk.title" = "Favoritos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kf6-vw-SRI"; */
+"Kf6-vw-SRI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KxW-Og-fT3"; */
+"KxW-Og-fT3.text" = "Label";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "RMW-Br-Wf2"; */
+"RMW-Br-Wf2.text" = "Login";
+
+/* Class = "UILabel"; text = "Jogo"; ObjectID = "UgA-aI-TmB"; */
+"UgA-aI-TmB.text" = "Jogo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zs5-dZ-EXP"; */
+"Zs5-dZ-EXP.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Download images to disk"; ObjectID = "awM-UY-9Ky"; */
+"awM-UY-9Ky.normalTitle" = "Download images to disk";
+
+/* Class = "UITextView"; text = "Gallery has names:"; ObjectID = "dll-NI-Anq"; */
+"dll-NI-Anq.text" = "Gallery has names:";
+
+/* Class = "UILabel"; text = "História"; ObjectID = "gUr-fc-Zcg"; */
+"gUr-fc-Zcg.text" = "História";
+
+/* Class = "UINavigationItem"; title = "Options"; ObjectID = "hvI-YN-HuS"; */
+"hvI-YN-HuS.title" = "Options";
+
+/* Class = "UILabel"; text = "Favoritos"; ObjectID = "ldO-ED-Y2B"; */
+"ldO-ED-Y2B.text" = "Favoritos";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "oDI-2X-erT"; */
+"oDI-2X-erT.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Esta Aplicação"; ObjectID = "qbn-zx-6f3"; */
+"qbn-zx-6f3.text" = "Esta Aplicação";
+
+/* Class = "UINavigationItem"; title = "História"; ObjectID = "vfg-8F-Xdi"; */
+"vfg-8F-Xdi.title" = "História";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "wAO-1q-RYM"; */
+"wAO-1q-RYM.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Opções"; ObjectID = "xXT-MP-pjt"; */
+"xXT-MP-pjt.text" = "Opções";
+
+/* Class = "UINavigationItem"; title = "Galeria"; ObjectID = "zhh-xl-2dV"; */
+"zhh-xl-2dV.title" = "Galeria";

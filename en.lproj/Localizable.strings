@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  CavExh
+
+  Created by Tiago Henriques on 19/04/16.
+  Copyright © 2016 Tiago Henriques. All rights reserved.
+*/
+
+"Favorites" = "Favorites";
+"History" = "The Exhibition";
+"Gallery" = "Gallery";
+"Read Code" = "Read Code";
+"Authors List" = "Artists";
+"Play Game" = "Play Game";
+"Options" = "Options";
+"About" = "This Application";
+"Added Favorites Title" = "Image added to your favorites";
+"Added Favorites Description" = "The image was successfully added to your favorites";
+"No Login Title" = "Not Logged In!";
+"No Login Description" = "You need to be logged in!";
+"Error Device Title" = "Device Error";
+"Error Device Description" = "Device not Supported for this Application";
+"About Desc" = "The purpose of this application is to serve as support for the \"70 Cavaquinhos, 70 Artists\" exhibition,where it is possible to not only make a virtual tour on the exhibition in order to see all the 70 exposed artworks, but also play a game where it is asked of the user to guess to which cavaquinho does a determined detail belong to";
+"credits" = "Credits";
+"credits_1" = "This application was developed in partnership between the Associação Museu Cavaquinho and students of the Aveiro University, in the context of the existing protocol between the two entities.";
+"credits_2" = "Contents:";
+"credits_3" = "Associação Museu Cavaquinho";
+"credits_4" = "Photography:";
+"credits_5" = "José Manuel Costa Alves.";
+"credits_6" = "Development:";
+"credits_7" = "Universidade de Aveiro, DETI: Tiago Henriques, with the support of Ilídio Oliveira, Marcelo Baptista, João Cruz.";

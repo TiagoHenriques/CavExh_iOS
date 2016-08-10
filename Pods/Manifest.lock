@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (3.3.0)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - Branch (0.12.0)
+  - Firebase (2.5.1)
+  - HanekeSwift (0.10.1)
+  - ImageSlideshow (0.4.0):
+    - ImageSlideshow/Core (= 0.4.0)
+  - ImageSlideshow/Alamofire (0.4.0):
+    - AlamofireImage (~> 2.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (0.4.0)
+  - SwiftyJSON (2.3.2)
+  - Toast-Swift (1.1.0)
+
+DEPENDENCIES:
+  - Branch
+  - Firebase (>= 2.5.1)
+  - HanekeSwift
+  - ImageSlideshow (~> 0.3)
+  - ImageSlideshow/Alamofire
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - Toast-Swift (~> 1.1.0)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 9054db4a1b1ca9e363223183e01cea380159a27c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  Branch: beeefb8cff5d802cb2983657a19dcf96d3197654
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  ImageSlideshow: 0d3632bc0c2b4d3fff24a49ce4d3022af8238b03
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  Toast-Swift: d11df96d64d449dc63cb330ea871f30b1eca18c1
+
+PODFILE CHECKSUM: 53e80e4e3a60d4a8332c155e0493e3a57be540fc
+
+COCOAPODS: 1.0.0.beta.6

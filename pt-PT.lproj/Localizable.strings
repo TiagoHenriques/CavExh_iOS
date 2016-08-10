@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  CavExh
+
+  Created by Tiago Henriques on 19/04/16.
+  Copyright © 2016 Tiago Henriques. All rights reserved.
+*/
+
+"Favorites" = "Favoritos";
+"History" = "A Exposição";
+"Gallery" = "Galeria";
+"Read Code" = "Ler Código";
+"Authors List" = "Artistas Plásticos";
+"Play Game" = "Jogar";
+"Options" = "Definições";
+"About" = "Esta Aplicação";
+"Added Favorites Title" = "Adicionado!";
+"Added Favorites Description" = "Esta imagem foi adicionada aos seus favoritos";
+"No Login Title" = "Sem Login efetuado!";
+"No Login Description" = "Necessita de esta com login feito para poder adicionar aos seus favoritos";
+"Error Device Title" = "Erro dispositivo";
+"Error Device Description" = "Dispositivo não suportado por esta aplicação";
+"About Desc" = "Esta Aplicação foi criada tendo como base a exposição \"70 cavaquinhos, 70 Artistas\", onde não só podemos fzer uma visita virtual às 70 obras que a compõem, como entrar num jogo onde temos de adivinhar a que cavaquinho pertence um determinado pormenor de uma pintura";
+"credits"= "Créditos";
+"credits_1"= "Esta aplicação foi desenvolvida em conjunto pela Associação Museu Cavaquinho e alunos da Universidade de Aveiro, no contexto do protocolo de colaboração existente entre as duas entidades.";
+"credits_2"= "Conteúdos:";
+"credits_3"= "Associação Museu Cavaquinho";
+"credits_4"= "Fotografia:";
+"credits_5"= "José Manuel Costa Alves.";
+"credits_6"= "Desenvolvimento:";
+"credits_7"= "Universidade de Aveiro, DETI: Tiago Henriques, com o apoio de Ilídio Oliveira, Marcelo Baptista, João Cruz.";
